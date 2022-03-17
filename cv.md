@@ -38,3 +38,21 @@ function minutesToMidnight(d) {
 ```
 
 ---
+
+## Skills
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## Education
+
+- University: National University of Food Technology, industrial biotechnology
+
+## Languages
+
+- English : pre-intermediate,
+- Ukraine : native,
+- Russian : native

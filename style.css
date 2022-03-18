@@ -55,3 +55,19 @@
   margin-top: 5px;
   width: 80%;
 }
+
+.content-right__image {
+  margin-top: 50px;
+}
+
+.content-right__section {
+  margin-top: 30px;
+}
+
+.content-right__section-desq {
+  margin: 0;
+  font-size: 14px;
+  line-height: 18px;
+  color: #73808d;
+  margin-top: 5px;
+}

@@ -7,6 +7,7 @@
 .content-left {
   width: 56%;
   margin-top: 48px;
+  margin-bottom: 48px;
   color: #101214;
 }
 
@@ -74,4 +75,19 @@
   line-height: 18px;
   color: #73808d;
   margin-top: 5px;
+}
+
+.content-right__section-image-list {
+  display: flex;
+  justify-content: start;
+  margin-top: 15px;
+}
+
+.content-right__section-image-list a + a {
+  margin-left: 20px;
+}
+
+.content-right__section-image img {
+  width: 40px;
+  height: 40px;
 }

@@ -64,6 +64,10 @@
   margin-top: 30px;
 }
 
+.content-right__section-title {
+  margin: 0;
+}
+
 .content-right__section-desq {
   margin: 0;
   font-size: 14px;

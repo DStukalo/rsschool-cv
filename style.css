@@ -18,7 +18,7 @@
 .content-left__title-title,
 .content-left__title-desq {
   font-size: 24px;
-  line-height: 10px;
+  line-height: 18px;
 }
 
 .content-left__title-title {
@@ -79,8 +79,10 @@
 
 .content-right__section-image-list {
   display: flex;
+  flex-wrap: wrap;
   justify-content: start;
   margin-top: 15px;
+  margin-bottom: 48px;
 }
 
 .content-right__section-image-list a + a {
@@ -90,4 +92,8 @@
 .content-right__section-image img {
   width: 40px;
   height: 40px;
+}
+
+.about-me {
+  text-align: justify;
 }

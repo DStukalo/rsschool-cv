@@ -78,9 +78,9 @@
 }
 
 .content-right__section-image-list {
-  display: flex;
+  /* display: flex;
   flex-wrap: wrap;
-  justify-content: start;
+  justify-content: start; */
   margin-top: 15px;
   margin-bottom: 48px;
 }

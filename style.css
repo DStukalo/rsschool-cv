@@ -1,0 +1,99 @@
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+  text-align: left;
+}
+
+.content-left {
+  width: 56%;
+  margin-top: 48px;
+  margin-bottom: 48px;
+  color: #101214;
+}
+
+.content-right {
+  width: 23%;
+}
+
+.content-left__title-title,
+.content-left__title-desq {
+  font-size: 24px;
+  line-height: 21px;
+}
+
+.content-left__title-title {
+  font-weight: bold;
+}
+
+.content-left__title-desq {
+  margin-top: 10px;
+}
+
+.content-left__section {
+  margin-top: 45px;
+  line-height: 18px;
+}
+
+.content-left__section-header {
+  font-size: 11px;
+  color: #73808d;
+}
+
+.content-left__section-title {
+  margin: 0;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.content-left__section-desq {
+  margin: 0;
+  margin-top: 5px;
+  color: #73808d;
+}
+
+.content-left__section-text {
+  margin: 0;
+  margin-top: 5px;
+  width: 80%;
+}
+
+.content-right__image {
+  margin-top: 50px;
+}
+
+.content-right__section {
+  margin-top: 30px;
+}
+
+.content-right__section-title {
+  margin: 0;
+}
+
+.content-right__section-desq {
+  margin: 0;
+  font-size: 14px;
+  line-height: 18px;
+  color: #73808d;
+  margin-top: 5px;
+}
+
+.content-right__section-image-list {
+  /* display: flex;
+  flex-wrap: wrap;
+  justify-content: start; */
+  margin-top: 15px;
+  margin-bottom: 48px;
+}
+
+.content-right__section-image-list a + a {
+  margin-left: 20px;
+}
+
+.content-right__section-image img {
+  width: 40px;
+  height: 40px;
+}
+
+.about-me {
+  text-align: justify;
+}
